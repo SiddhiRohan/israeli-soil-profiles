@@ -1,7 +1,7 @@
 # 🌍 Israeli Soil Profiles — Research Database & Tools
 
 > A digitization and interactive mapping project for legacy Israeli soil survey field books  
-> **Needelman Lab · Department of Environmental Science & Technology · University of Maryland**
+> **Department of Environmental Science & Technology · University of Maryland**
 
 ---
 
